@@ -1,0 +1,13 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.TicTacToe.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Users\Lenovo_302\work\сSharp\TicTacToe\.idea\.idea.TicTacToe\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
